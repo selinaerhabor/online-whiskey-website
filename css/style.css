@@ -240,14 +240,12 @@ body {
 }
 
 .Favourites-container {
-    text-align: center;
-    background: url('/../images/whiskey-images.jpg') no-repeat center center fixed;
+    background: url('../images/whiskey-images.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     display: flex;
-    z-index: -1;
     align-items: center;
     justify-content: center;
     position: relative;

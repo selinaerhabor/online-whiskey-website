@@ -13,7 +13,7 @@ explores use of different themes and colours across the page.
 * Bootstrap (https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css)
 
 
-### Tests
+## Tests
 
 Overall the website can be viewed correctly on all screen sizes. 
 I tested the website using the following listed device screen sizes below:
@@ -30,3 +30,8 @@ I tested the website using the following listed device screen sizes below:
 * iPad Pro - Good Fit, Responsive on both landscape and portrait views
 
 * Google Chrome - Loads correctly
+
+## Screenshots on other Screen Sizes
+
+![Test Image Phone]("../images/Phone-Screen-Size.png")
+![Test Image iPad]("../images/iPad-Screen-Size.png")

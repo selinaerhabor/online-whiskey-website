@@ -2,6 +2,16 @@ body {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
 
+.T {
+    color: white;
+    text-align: center;
+}
+
+.MFAV {
+    color: white;
+    font-weight: bold;
+}
+
 
 
 /* alert */
@@ -144,6 +154,12 @@ body {
     color: white;
 }
 
+.btn-sm:hover {
+    background-color: blue;
+    border-color: #df4929;
+    color: white;
+}
+
 
 /* Page Headers */
 
@@ -223,12 +239,45 @@ body {
     padding-top: 2%;
 }
 
+.Favourites-container {
+    text-align: center;
+    background: url('/../images/whiskey-images.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    z-index: -1;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding-top: 2%;
+}
+
+.favourites-opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+
 
 /* Quotes */
 
 blockquote {
     border-left: 0;
     align-items: center;
+}
+
+.media {
+    padding-top: 1%;
+    padding-left: 17.5%;
+    padding-bottom: 5%;
 }
 
 

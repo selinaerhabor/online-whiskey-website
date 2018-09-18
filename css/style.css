@@ -4,6 +4,28 @@ body {
 
 
 
+/* alert */
+
+.alert-container .col-xs-12{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.site-wide-alert {
+    padding: 5px 15px;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+
+
+
 /* Navbar */
 
 .navbar {

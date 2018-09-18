@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-.MFAV {
+.m-fav {
     color: white;
     font-weight: bold;
 }
@@ -254,13 +254,13 @@ body {
     padding-top: 2%;
 }
 
-.favourites-opaque-overlay {
+.opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 
@@ -312,9 +312,11 @@ blockquote {
 
 .bottom-of-page {
      padding-top: 8%;
+     align-items: center;
+     text-align: center;
+     margin: 0 auto;
 } 
 
 .important-info {
     opacity: 0.8;
 }
-

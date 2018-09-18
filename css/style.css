@@ -113,6 +113,9 @@ body {
 }
 
 .block-divider--white {
+    width: 75px;
+    height: 5px;
+    border: 0;
     background-color: white;
 }
 
@@ -146,6 +149,18 @@ body {
     color: white;
 }
 
+
+/* Page Headers */
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
 
 
 /* Jumbotron */
@@ -197,4 +212,15 @@ body {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.3);
 }
+
+.quotes-container {
+    align-items: center;
+    background-color: #f05f40;
+    background-size: 100%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
+
+
+
 

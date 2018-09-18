@@ -11,6 +11,7 @@
 </head>
 <body>
     <nav class="navbar navbar-default">
+        <!-- Alert Bar -->
         <div class="container-fluid alert-container hidden-xs">
             <div class="row">
                 <div class="col-xs-12">
@@ -20,6 +21,9 @@
                 </div>
             </div>
         </div>
+        <!-- /Alert Bar -->
+        
+        <!-- Navigation Bar -->
         <div class="container-fluid">
             <div class="navbar-header">
                 <a href="/" class="navbar-brand">Whiskey Drop</a>
@@ -42,7 +46,28 @@
                 </div>
             </div>
         </div>
+        <!-- /Navigation Bar -->
     </nav>
+    
+     <div class="container-fluid callout-container">
+        <div class="opaque-overlay">&nbsp;</div>
+        <!-- Callout -->
+            <div class="row">
+                <div class="col-xs-12">
+                    <section class="callout jumbotron text-center">
+                        <h1>The finest whiskeys delivered to your doorstep.</h1>
+                        <hr class='block-divider block-divider--orange'>
+                        <p class="lead">Sign up today to start receiving the world's best whiskeys every month. <s class="hidden-xs">€19.99</s> 
+                        <span class="visible-xs"><br></span> <strong><mark>First one is free!</mark></strong></p>
+                        <p><button class="btn btn-lg btn--cta btn--red" data-toggle='modal' data-target='#signUpModal'>Sign Up!</button></p>
+                        <p class="text-muted"><small>You must be over 18 to sign up to our service. Please drink responsibly.</small></p>
+                    </section>
+                </div>
+            </div>
+        <!-- /.callout -->
+    </div>
+    
+    
     
     <!-- Modal -->
     <div class="modal fade" id="signUpModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">

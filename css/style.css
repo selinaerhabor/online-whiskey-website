@@ -112,15 +112,10 @@ body {
     background-color: #f05f40;
 }
 
-.block-divider--white {
-    width: 75px;
-    height: 5px;
-    border: 0;
-    background-color: white;
-}
 
 .block-divider--short {
     width: 35px;
+    background-color: white;
 }
 
 
@@ -221,6 +216,45 @@ body {
     padding-top: 2%;
 }
 
+.features-container {
+    background-color: lightgray;
+    background-size: 100%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
 
+
+/* Quotes */
+
+blockquote {
+    border-left: 0;
+    align-items: center;
+}
+
+
+
+/* Features */
+
+.feature {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.feature .glyphicon {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 45px;
+    line-height: 45px;
+}
+
+.feature .btn {
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #f05f40;
+}
 
 

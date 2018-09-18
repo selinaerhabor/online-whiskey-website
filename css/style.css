@@ -307,3 +307,14 @@ blockquote {
 }
 
 
+
+/* Footer */
+
+.bottom-of-page {
+     padding-top: 8%;
+} 
+
+.important-info {
+    opacity: 0.8;
+}
+

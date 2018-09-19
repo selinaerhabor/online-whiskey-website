@@ -31,7 +31,8 @@ I tested the website using the following listed device screen sizes below:
 
 * Google Chrome - Loads correctly
 
-## Screenshots on other Screen Sizes
+
+## Screenshots of different screen size views
 
 ![Test Image Phone]("../images/Phone-Screen-Size.png")
 ![Test Image iPad]("../images/iPad-Screen-Size.png")

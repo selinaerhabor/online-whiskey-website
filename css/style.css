@@ -224,7 +224,7 @@ body {
     background-color: rgba(0, 0, 0, 0.3);
 }
 
-.quotes-container {
+.reviews-container {
     align-items: center;
     background-color: #f05f40;
     background-size: 100%;
@@ -266,7 +266,7 @@ body {
 
 
 
-/* Quotes */
+/* Reviews */
 
 blockquote {
     border-left: 0;

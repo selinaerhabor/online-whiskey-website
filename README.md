@@ -32,9 +32,3 @@ I tested the website using the following listed device screen sizes below:
 * **Google Chrome** - Loads correctly
 * **Internet Explorer** - Loads correctly
 * **Microsoft Edge** - Loads correctly
-
-
-## Screenshots of different screen size views
-
-![Test Image iPad]("https://github.com/selinaerhabor/online-whiskey-website/online-whiskey-shop-serhabor.c9users.io_index.html(iPad).png")
-![Test Image Phone]("https://github.com/selinaerhabor/online-whiskey-website/online-whiskey-shop-serhabor.c9users.io_index.html(iPhone%205_SE).png")

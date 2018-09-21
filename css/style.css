@@ -38,7 +38,13 @@ body {
 
 
 
+
 /* Navbar */
+
+.nav-container .col-xs-12{
+    padding-left: 0;
+    padding-right: 0;
+}
 
 .navbar {
     margin-bottom: 0;
@@ -98,6 +104,7 @@ body {
     width: 100px;
     background-color: #f05f40;
     color: white;
+    margin-right: 5px;
 }
 
 .navbar-btn:hover {
